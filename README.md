@@ -10,7 +10,8 @@ I'm a highly skilled Platform engineer (as there's no such thing as a DevOps eng
 I'm motivated by making the world a better place for my children through the work of the companies I work for. My passion for improving processes drives me to continually learn and grow, so I can make a significant impact in empowering development teams to be free to work their magic.
 
 ### Current interests
-![Learning](learn.png)
+![Learning](learn.png)   
+
 I'm currently focused on custom command line tools that make a platform's engineer life easir. I'm excited to collaborate on projects that align with my skills and values.
 
 ![GIF displaying versatility](choose-me.gif)
