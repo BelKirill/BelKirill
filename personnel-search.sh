@@ -26,7 +26,7 @@ main_menu() {
       candidates 21,827
       ;;
     "Data Analyst")
-      candidates 25,8293
+      candidates 25,823
       ;;
     "Tech Leader")
       candidates 5,239
