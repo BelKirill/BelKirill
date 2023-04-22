@@ -14,7 +14,7 @@ I'm motivated by making the world a better place for my children through the wor
 
 I'm currently focused on custom command line tools that make a platform's engineer life easir. I'm excited to collaborate on projects that align with my skills and values.
 
-![GIF displaying versatility](choose-me.gif)
+![GIF displaying versatility](why-me.gif)
 
 ## Technological Stack
 
