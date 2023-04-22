@@ -12,7 +12,11 @@ I'm motivated by making the world a better place for my children through the wor
 ### Current interests
 ![Learning](img/learn.png)   
 
-I'm currently focused on custom command line tools that make a platform's engineer life easir. I'm excited to collaborate on projects that align with my skills and values.
+I'm currently focused on custom command line tools that make a platform's engineer life easier. Working with charm.sh's line of tooling makes me create interesting TUI utilities and want to learn Go. Other than that, personal finance data wrangling using JupyterLab.
+
+I'm also developing an IPython course as it seems like this is an often overlooked tool which comes in very handy.
+
+I'm excited to collaborate on projects that align with my skills and values.
 
 ![GIF displaying versatility](img/why-me.gif)
 
