@@ -2,6 +2,11 @@
 #
 # Requires gum by charm.sh
 
+# If you decide to use gum you can set the theme as your environment variables
+# The set-gum-theme.sh file is an example
+
+source set-gum-theme.sh
+
 candidates() {
   (gum confirm "$1 candidates found. Proceed?")
   main_menu
