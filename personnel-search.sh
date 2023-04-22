@@ -32,7 +32,7 @@ main_menu() {
       candidates 5,239
       ;;
     "All the above")
-      gum confirm "Contact Gil?" && echo "The Raccoon is here."
+      gum confirm "Contact Gil?" && gum style --foreground=$THEME_HIGHLIGHT_COLOR "The Raccoon is here."
       cat raccoon.ascii
       ;;
     *)
