@@ -28,6 +28,8 @@ I'm excited to collaborate on projects that align with my skills and values.
 - Google Cloud Platform: Proficient with various services, preferred for quick solutions
 - Linux Administration: RedHat, Ubuntu, Amazon Linux
 - Database Administration: Oracle, Aurora, MySQL, MSSQL, On prem, RDS
+Next challenge:
+- Kubernetes
 
 ### Programming Languages:
 ![Programming Languages](img/coding.png)
@@ -35,13 +37,17 @@ I'm excited to collaborate on projects that align with my skills and values.
 - JavaScript: Front-end web development
 - Java: Enterprise application development
 - Shell scripts: Unix-based task automation
+Next challenge:
+- Go
 
 ### CI/CD:
 ![CI/CD](img/cicd.png)
 - Jenkins: Build automation, workflow management
 - Terraform: Infrastructure as Code, provisioning, updates
 - TeamCity: Multi-platform CI/CD server
-- Packer: Machine and Docker image creation automation
+- Packer: Machine and Docker image creation automationo
+Next challenge:
+- Argo CD
 
 ### Observability and Data Analysis:
 ![Observability and Data Analysis](img/data.png)
@@ -49,6 +55,8 @@ I'm excited to collaborate on projects that align with my skills and values.
 - JupyterLab: Interactive development, code notebook sharing
 - R: Statistical analysis, data visualization
 - Vector, Loki, Grafana: Log collection, storage, visualization
+Next challenge:
+- Prometheus
 
 ### Soft Skills and Collaboration:
 ![Soft Skills and Collaboration](img/soft-skills.png)
@@ -56,6 +64,9 @@ I'm excited to collaborate on projects that align with my skills and values.
 - Slack: Real-time team communication
 - Jira: Bug and task tracking
 - Confluence: Knowledge sharing, document collaboration
+Next challenge:
+- Upload a course to Udemy
+
 
 ### Technological Leadership:
 ![Technological Leadership](img/tech-lead.png)
@@ -63,4 +74,6 @@ I'm excited to collaborate on projects that align with my skills and values.
 - Cross-functional collaboration: Achieving goals with diverse teams
 - Kanban: Agile project management, workflow visualization
 - Canva: Presentation, infographic, visual content creation
+Next challenge:
+- Fellow based workflow
 
