@@ -74,6 +74,6 @@ I'm excited to collaborate on projects that align with my skills and values.
 - Cross-functional collaboration: Achieving goals with diverse teams
 - Kanban: Agile project management, workflow visualization
 - Canva: Presentation, infographic, visual content creation
-Next challenge:
+#### Next challenge:
 - Fellow based workflow
 
