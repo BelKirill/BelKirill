@@ -28,7 +28,7 @@ I'm excited to collaborate on projects that align with my skills and values.
 - Google Cloud Platform: Proficient with various services, preferred for quick solutions
 - Linux Administration: RedHat, Ubuntu, Amazon Linux
 - Database Administration: Oracle, Aurora, MySQL, MSSQL, On prem, RDS
-Next challenge:
+#### Next challenge:
 - Kubernetes
 
 ### Programming Languages:
@@ -37,7 +37,7 @@ Next challenge:
 - JavaScript: Front-end web development
 - Java: Enterprise application development
 - Shell scripts: Unix-based task automation
-Next challenge:
+#### Next challenge:
 - Go
 
 ### CI/CD:
@@ -46,7 +46,7 @@ Next challenge:
 - Terraform: Infrastructure as Code, provisioning, updates
 - TeamCity: Multi-platform CI/CD server
 - Packer: Machine and Docker image creation automationo
-Next challenge:
+#### Next challenge:
 - Argo CD
 
 ### Observability and Data Analysis:
@@ -55,7 +55,7 @@ Next challenge:
 - JupyterLab: Interactive development, code notebook sharing
 - R: Statistical analysis, data visualization
 - Vector, Loki, Grafana: Log collection, storage, visualization
-Next challenge:
+#### Next challenge:
 - Prometheus
 
 ### Soft Skills and Collaboration:
@@ -64,7 +64,7 @@ Next challenge:
 - Slack: Real-time team communication
 - Jira: Bug and task tracking
 - Confluence: Knowledge sharing, document collaboration
-Next challenge:
+#### Next challenge:
 - Upload a course to Udemy
 
 
